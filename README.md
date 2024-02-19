@@ -1,5 +1,5 @@
 #### Запуск приложения:
- - npm install
+ - npm ci
  - npm start (запустится Storybook)
 
 #### Общая цель:
